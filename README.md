@@ -18,6 +18,7 @@ python mobile_release_cli.py -repo mozilla-mobile/firefox-android -date_range Ju
 python mobile_release_cli.py -repo mozilla-mobile/firefox-android -date_range 10/1-11/30 --summary
 python mobile_release_cli.py -repo mozilla-mobile/firefox-android -date_range October-November --save
 python mobile_release_cli.py -repo mozilla-mobile/firefox-android -date_range 10/5 --summary
+```
 
 ### Arguments
 - `-repo`: Specify one or more GitHub repositories to aggregate. Accepts a space-separated list.
