@@ -42,7 +42,7 @@ To run the script, ensure you have Python installed on your system. Clone the re
 To install the required Python packages, run:
 ```bash
 pip install matplotlib requests
-
+```
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
